@@ -1,0 +1,1 @@
+/root/code/alivePlayer/build/CMakeFiles/ALIVEPLAYER.dir
