@@ -1,0 +1,1 @@
+gcc -g -o cut cut.c `pkg-config --libs libavutil libavformat`

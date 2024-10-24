@@ -1,0 +1,1 @@
+gcc -g -o extra_audio extra_audio.c `pkg-config --libs libavutil libavformat`

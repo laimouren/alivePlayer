@@ -1,0 +1,1 @@
+gcc -g -o mediainfo mediainfo.c `pkg-config --libs libavutil libavformat`

@@ -1,0 +1,1 @@
+clang -g -o ffmpeg_log ffmpeg_log.c -lavutil

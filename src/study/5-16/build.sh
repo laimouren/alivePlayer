@@ -1,0 +1,1 @@
+gcc -g -o remux remux.c `pkg-config --libs libavutil libavformat`
