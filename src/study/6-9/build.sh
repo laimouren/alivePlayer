@@ -1,0 +1,1 @@
+gcc -g -o gen_pic gen_pic.c `pkg-config --libs libavutil libavformat libswscale`

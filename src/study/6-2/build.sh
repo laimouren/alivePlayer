@@ -1,0 +1,1 @@
+gcc -g -o encode_video encode_video.c `pkg-config --libs libavutil libavformat`

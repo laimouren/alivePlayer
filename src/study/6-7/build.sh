@@ -1,0 +1,1 @@
+gcc -g -o encode_audio encode_audio.c `pkg-config --libs libavutil libavformat`
